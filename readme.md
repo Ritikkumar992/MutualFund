@@ -25,8 +25,7 @@ flutter pub get
 flutter run
 ```
 
-> **Note**: hardcoded credentials value used for login.
-> Credentials: [rk@gmail.com] / 123456
+> **🔑 Login**: Use any valid email and a 6+ character password (e.g. `rk@gmail.com` / `123456`)
 
 ## ✨ Features
 
