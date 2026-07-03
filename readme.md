@@ -73,4 +73,4 @@ lib/
 </div>
 
 ---
-*Built with ❤️ using Flutter.*
+*Built with ❤️*
