@@ -31,12 +31,6 @@ lib/
     └── schemes/     # Mutual Fund List, Details, and ViewModels
 ```
 
-## 🎨 Design Philosophy
-
-* **Modern UI**: Clean interfaces with dynamic Material 3 color schemes (`ColorScheme.fromSeed`) and rounded cards.
-* **Responsive**: Smooth animations, debounced search inputs, and graceful error handling (minimalist SnackBars).
-* **Smart Routing**: Seamless startup navigation based on existing user sessions.
-
 ## ⚡ Performance Optimizations
 
 * **Background Isolate Parsing** — `compute()` parses 45k+ JSON records off the main thread, preventing UI jank.
@@ -61,6 +55,23 @@ flutter run
 ```
 
 > **Prerequisites**: Flutter SDK installed, an Android emulator / iOS simulator / physical device connected.
+
+## 📸 Screenshots
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center"><strong>Login Screen</strong></td>
+      <td align="center"><strong>Scheme List</strong></td>
+      <td align="center"><strong>Scheme Details</strong></td>
+    </tr>
+    <tr>
+      <td><img src="mutual_fund/screenshots/login.png" width="250"/></td>
+      <td><img src="mutual_fund/screenshots/funds_list.png" width="250"/></td>
+      <td><img src="mutual_fund/screenshots/scheme_details.png" width="250"/></td>
+    </tr>
+  </table>
+</div>
 
 ---
 *Built with ❤️ using Flutter.*
