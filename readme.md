@@ -73,4 +73,4 @@ lib/
 </div>
 
 ---
-*Built with ❤️*
+*Built with ❤️ by Ritik.*
