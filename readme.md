@@ -25,7 +25,8 @@ flutter pub get
 flutter run
 ```
 
-> **Prerequisites**: Flutter SDK installed, an Android emulator.
+> **Note**: hardcoded credentials value used for login.
+> Credentials: [rk@gmail.com] / 123456
 
 ## ✨ Features
 
